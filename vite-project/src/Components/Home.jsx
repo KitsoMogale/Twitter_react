@@ -12,11 +12,17 @@ export const Home = ()=>{
 
             <div id="tweets">
                 <div className="tweet">
-                    <div className="img"></div>
+                    <div className="identity">
+                     <div className="p_img">1</div>
+                     <p>@kitsoMogale</p>
+                    </div>
                     <p>random tweet</p>
                 </div>
                 <div className="tweet">
-                    <div className="img"></div>
+                <div className="identity">
+                     <div className="p_img">1</div>
+                     <p>@gwebzilla</p>
+                </div>
                     <p>random tweet</p>
                 </div>
             </div>
