@@ -16,14 +16,42 @@ export const Home = ()=>{
                      <div className="p_img">1</div>
                      <p>@kitsoMogale</p>
                     </div>
-                    <p>random tweet</p>
+                    <p>random tweet1</p>
                 </div>
                 <div className="tweet">
-                <div className="identity">
+                    <div className="identity">
                      <div className="p_img">1</div>
-                     <p>@gwebzilla</p>
+                     <p>@kitsoMogale</p>
+                    </div>
+                    <p>random tweet1</p>
                 </div>
-                    <p>random tweet</p>
+                <div className="tweet">
+                    <div className="identity">
+                     <div className="p_img">1</div>
+                     <p>@kitsoMogale</p>
+                    </div>
+                    <p>random tweet1</p>
+                </div>
+                <div className="tweet">
+                    <div className="identity">
+                     <div className="p_img">1</div>
+                     <p>@kitsoMogale</p>
+                    </div>
+                    <p>random tweet1</p>
+                </div>
+                <div className="tweet">
+                    <div className="identity">
+                     <div className="p_img">1</div>
+                     <p>@kitsoMogale</p>
+                    </div>
+                    <p>random tweet1</p>
+                </div>
+                <div className="tweet">
+                    <div className="identity">
+                     <div className="p_img">1</div>
+                     <p>@kitsoMogale</p>
+                    </div>
+                    <p>random tweet1</p>
                 </div>
             </div>
             
@@ -33,3 +61,4 @@ export const Home = ()=>{
 
 
 }
+

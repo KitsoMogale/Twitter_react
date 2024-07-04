@@ -3,26 +3,44 @@
   flex-direction: column;
   width: 90vh;
   position: relative;
-  left:50vh;
-  border: 2px white solid;
+  left:70vh;
+  top:0;
+}
+
+#nav{
+  position: fixed;
+  left:35vh;
+  
+}
+.layout{
+  display: flex;
+  flex-direction: row;
 }
 
 #fyf{
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
-  border-bottom: 2px white solid;
+  border-bottom: 2px rgb(255, 255, 255) solid;
+  border-top: 2px white solid;
   z-index: 1;
+  position: fixed;
+  background-color: black;
+  width: 90vh;
+  top:0;
 }
 
 .tweet{
-  border-top: 2px white solid;
-
-  
+  border: 1px white solid;
+  padding: 5px;
 }
 
+
 #tweets{
+  margin: 5px;
   padding: 5px;
+  position: relative;
+  top:14vh;
 }
 
 .p_img{
@@ -31,7 +49,6 @@
     width: 10vh;
     height: 10vh;
     align-content: center;
-    box-sizing: border-box;
 }
 
 .identity{
@@ -39,3 +56,7 @@
   flex-direction: row;
 }
 
+#textarea{
+  position: relative;
+  top:58vh;
+}
