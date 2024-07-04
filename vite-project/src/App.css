@@ -1,0 +1,16 @@
+#home{
+  display: flex;
+  flex-direction: column;
+  width: 80vh;
+  position: relative;
+  left:30vh;
+}
+
+#fyf{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+
+}
+
+

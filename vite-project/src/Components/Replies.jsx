@@ -1,0 +1,12 @@
+
+
+export const Replies = ()=>{
+
+    return(
+        <>
+          
+        </>
+    )
+
+
+}
