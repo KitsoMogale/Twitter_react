@@ -38,7 +38,6 @@
 
 #tweets{
   margin: 5px;
-  padding: 5px;
   position: relative;
   top:14vh;
 }
@@ -59,4 +58,12 @@
 #textarea{
   position: relative;
   top:58vh;
+}
+
+#replies{
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  left:70vh;
+  width:90vh;
 }

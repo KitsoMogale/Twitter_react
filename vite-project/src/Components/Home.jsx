@@ -1,4 +1,4 @@
-
+import { Link } from "react-router-dom"
 
 export const Home = ()=>{
 
@@ -17,6 +17,9 @@ export const Home = ()=>{
                      <p>@kitsoMogale</p>
                     </div>
                     <p>random tweet1</p>
+                    <div className="icons" >
+                        <Link to='/1/replies'>replies</Link>
+                    </div>
                 </div>
                 <div className="tweet">
                     <div className="identity">
